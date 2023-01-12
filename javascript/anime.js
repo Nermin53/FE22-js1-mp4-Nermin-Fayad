@@ -1,8 +1,6 @@
 var person = document.getElementById("person");
 var scope = document.getElementById("scope");
 
-//test
-
 const helpAnimation = {
     targets: '#container h1',
     translateY: '-5rem',
